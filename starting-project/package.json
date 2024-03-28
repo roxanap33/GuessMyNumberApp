@@ -10,8 +10,9 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "@expo/config": "^8.1.1",
+    "@expo/metro-config": "^0.10.0",
     "expo": "^50.0.14",
-    "expo-cli": "^6.3.10",
     "expo-linear-gradient": "~12.7.2",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
